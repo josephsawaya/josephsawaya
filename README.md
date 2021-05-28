@@ -1,6 +1,6 @@
 ### What's Up!
 
-I'm Joseph, a third year Computer Engineering student at U of Toronto. I'm currently working on some projects with some orgs: [BGPC](https://github.com/bgpc-ca) and [saxle](https://github.com/saxle). I've spent the past summer learning AWS and TypeScript and I contributed to the [aws-serverless-toolkit](https://github.com/bgpc-ca/aws-serverless-toolkit) for which I'm making a [CLI](https://github.com/josephsawaya/aws-serverless-toolkit-cli) using Rust.
+I'm Joseph, a third year Computer Engineering student at U of Toronto. Currently working at Red Hat as a Software dev intern.
 
 <!--
 **josephsawaya/josephsawaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
